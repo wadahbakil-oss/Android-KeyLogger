@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231407764787",
+    "project_id": "hidden-rat-project",
+    "storage_bucket": "hidden-rat-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231407764787:android:7cc9bfb4c522db4d00ea46",
+        "android_client_info": {
+          "package_name": "com.ratx.hidden_rat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdZYzwZ5NVBXauhhGm3Bhy859emES-jWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
